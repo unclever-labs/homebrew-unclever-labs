@@ -1,6 +1,6 @@
 require "FileUtils"
 
-v = "0.0.1"
+$v = "0.0.1"
 
 class Scidr < Formula
   homepage "https://github.com/unclever-labs/scidr"
