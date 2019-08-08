@@ -12,4 +12,5 @@ Homebrew repos for Unclever Labs
 
 ```bash
 brew install unclever-labs/unclever-labs/scidr
+brew install unclever-labs/unclever-labs/xphilx
 ```
